@@ -1,0 +1,77 @@
+[
+  {
+    "id": "faq_001",
+    "question": "How do I reset my password?",
+    "answer": "To reset your password, click on the 'Forgot Password' link on the login page and follow the instructions sent to your email."
+  },
+  {
+    "id": "faq_002",
+    "question": "Why can't I log into my account?",
+    "answer": "Login issues can occur due to incorrect credentials, an inactive account, or temporary system maintenance. Please try resetting your password or contact support."
+  },
+  {
+    "id": "faq_003",
+    "question": "How can I update my email address?",
+    "answer": "You can update your email address by going to Account Settings and selecting 'Edit Profile'. Save changes once you enter the new email."
+  },
+  {
+    "id": "faq_004",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept major credit cards, debit cards, and PayPal. Availability may vary by region."
+  },
+  {
+    "id": "faq_005",
+    "question": "How do I view my billing history?",
+    "answer": "Billing history is available in your account dashboard under the 'Billing' section."
+  },
+  {
+    "id": "faq_006",
+    "question": "I was charged twice. What should I do?",
+    "answer": "If you believe you were charged twice, please contact customer support with your order ID so we can investigate and issue a refund if necessary."
+  },
+  {
+    "id": "faq_007",
+    "question": "How can I cancel my subscription?",
+    "answer": "You can cancel your subscription anytime from the Subscription section in your account settings. The cancellation will take effect at the end of the billing cycle."
+  },
+  {
+    "id": "faq_008",
+    "question": "Do you offer refunds?",
+    "answer": "Yes, refunds are available according to our refund policy. Please review the policy or contact support for assistance."
+  },
+  {
+    "id": "faq_009",
+    "question": "How long does shipping take?",
+    "answer": "Shipping typically takes 3–7 business days, depending on your location and the selected shipping method."
+  },
+  {
+    "id": "faq_010",
+    "question": "How can I track my order?",
+    "answer": "Once your order is shipped, you will receive a tracking number via email. You can also find it in your account under Orders."
+  },
+  {
+    "id": "faq_011",
+    "question": "What should I do if my order arrives damaged?",
+    "answer": "If your order arrives damaged, please contact customer support within 48 hours and include photos of the damage."
+  },
+  {
+    "id": "faq_012",
+    "question": "Can I change my shipping address after placing an order?",
+    "answer": "Shipping addresses can only be changed before the order is shipped. Please contact support as soon as possible."
+  },
+  {
+    "id": "faq_013",
+    "question": "Is my personal information secure?",
+    "answer": "Yes, we use industry-standard security measures to protect your personal information."
+  },
+  {
+    "id": "faq_014",
+    "question": "How do I contact customer support?",
+    "answer": "You can contact customer support via email, live chat, or through the support form on our website."
+  },
+  {
+    "id": "faq_015",
+    "question": "Do you have a mobile app?",
+    "answer": "Yes, our mobile app is available for both iOS and Android devices and can be downloaded from the app stores."
+  }
+]
